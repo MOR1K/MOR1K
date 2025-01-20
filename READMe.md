@@ -8,6 +8,7 @@ My name is Martin, I am a FrontEnd developer. I live in China
 
 On this page I will post various projects related to my work and hobbies!
 
+Have a nice viewing my works!
 
 ## Contacts
 
