@@ -19,7 +19,7 @@ _________
 
 ## Support :money_with_wings:
 
-|Network|Address|
+|Payment system|Link|
 |--|--|
 |**DonationAlerts**|[Click](https://www.donationalerts.com/r/mor1k_gh)|
 ________
