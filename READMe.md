@@ -17,6 +17,11 @@ _________
 |**Mail**|[morik@tutamail.com]()|
 |**Telegram**|-|
 
+## Support :money_with_wings:
+
+|Network|Address|
+|--|--|
+|**DonationAlerts**|[Click](https://www.donationalerts.com/r/mor1k_gh)|
 ________
 
 # Projects :computer:
