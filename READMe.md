@@ -1,8 +1,8 @@
-# Mor1k
+# Mor1k :octocat:
 
 ![glider](https://media1.tenor.com/m/mkrG3g9HwAcAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.gif)
 _________
-## Thank you for visiting my GitHub page!
+## Thank you for visiting my GitHub page! :wave:  
 
 My name is Martin, I am a FrontEnd developer. I live in China
 
@@ -19,9 +19,9 @@ Have a nice viewing my works!
 
 ________
 
-# Projects
+# Projects :computer:
 
-### Hardware Hacking
+### Hardware Hacking :lock:
 
 - **[IRBIS IR](https://github.com/MOR1K/IRBIS_IR)**
 - **[Ibutton firmware for m5 StickC](https://github.com/MOR1K/iButton-firmware-for-m5-Stickc-plus2)**
