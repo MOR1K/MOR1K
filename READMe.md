@@ -14,7 +14,7 @@ Have a nice viewing my works!
 
 |Network|Address|
 |--|--|
-|**Mail**|[-]()|
+|**Mail**|[morik@tutamail.com]()|
 |**Telegram**|-|
 
 ________
