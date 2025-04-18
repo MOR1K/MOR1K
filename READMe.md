@@ -21,7 +21,7 @@ _________
 
 |Media|Address|
 |--|--|
-|**Printables**|[https://www.printables.com/@MORIK_3168323]()|
+|**Printables**|[Click](https://www.printables.com/@MORIK_3168323)|
 
 ## Support :money_with_wings:
 
