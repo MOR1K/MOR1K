@@ -17,6 +17,12 @@ _________
 |**Mail**|[morik@tutamail.com]()|
 |**Telegram**|-|
 
+## Another media :incoming_envelope:
+
+|Media|Address|
+|--|--|
+|**Printables**|[https://www.printables.com/@MORIK_3168323]()|
+
 ## Support :money_with_wings:
 
 |Payment system|Link|
