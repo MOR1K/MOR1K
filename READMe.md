@@ -4,11 +4,7 @@
 _________
 ## Thank you for visiting my GitHub page! :wave:  
 
-  My name is Martin, I am a FrontEnd developer. I live in China
-
-  On this page I will post various projects related to my work and hobbies!
-
-  Have a nice viewing my works!
+  My name is Artem
 
 ## Contacts :incoming_envelope:
 
