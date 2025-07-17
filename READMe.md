@@ -4,7 +4,7 @@
 _________
 ## Thank you for visiting my GitHub page! :wave:  
 
-  My name is Artem
+  -
 
 ## Contacts :incoming_envelope:
 
