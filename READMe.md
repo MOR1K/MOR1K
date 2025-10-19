@@ -23,7 +23,7 @@ _________
 
 |Payment system|Link|
 |--|--|
-|**DonationAlerts**|[Click](https://www.donationalerts.com/r/mor1k_gh)|
+|--|--|
 ________
 
 # Projects :computer:
