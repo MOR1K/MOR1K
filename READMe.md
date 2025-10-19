@@ -28,7 +28,7 @@ ________
 
 # Projects :computer:
 
-### Hardware Hacking :lock:
+### 1 :lock:
 
 - **[IRBIS IR](https://github.com/MOR1K/IRBIS_IR)**
 - **[Ibutton firmware for m5 StickC](https://github.com/MOR1K/iButton-firmware-for-m5-Stickc-plus2)**
